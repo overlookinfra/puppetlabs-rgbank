@@ -11,9 +11,10 @@
 The purpose of the `puppet-rgbank` module is to install all application components and setup a working copy of the RGBank application
 
 ### Notice
+
+> This module is not supported or maintained by Puppet and does not qualify for Puppet Support plans. It's provided without guarantee or warranty and is not intended for public or production use. It is for demonstration purposes only.
 >
-> _THIS IS AN EXAMPLE APPLICATION ORCHESTRATION MODULE - NOT INTENDED FOR PRODUCTION USE_
->
+> [tier:demo]
 
 ## Setup
 ###Prerequisites
